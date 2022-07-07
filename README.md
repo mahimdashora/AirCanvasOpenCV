@@ -12,4 +12,6 @@ Here Colour Detection and tracking is used in order to achieve the objective. Th
 5. Detect the contours, find the center coordinates of largest contour and keep storing them in the array for successive frames .(Arrays for drawing points on canvas)
 6. Finally draw the points stored in array on the frames and canvas .
 
+**P.S Make sure to have plain background while setting up your contour (your air stylus/air pen etc..) and have your contour in Red/Blue/Green primary color for better perfomance**
+
 Requirements: python3 , numpy , opencv installed on your system.
